@@ -23,10 +23,7 @@ export default function App() {
                         component={Game}
                         options={{
                             animationTypeForReplace: 'push',
-                            title: 'Tic-Tac-Toe',
-                            headerStyle: {
-                                // backgroundColor: 'transparent',
-                            },
+                            title: 'Tic-Tac-Toe',                           
                         }}
                     />
                 </Stack.Navigator>

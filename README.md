@@ -1,10 +1,10 @@
 # TicTacToe-React-Native  😊
 
-- has three differents difficulties (easy, hard, impossible)
-- play against computer or a human
-- replaced circle with white pawn in SVG format
-- replace cross with black pawn in SVG format
-- resizable board (choose from 3x3 or 5x5)
+- Three levels (easy, hard, impossible)
+- Play against computer or a human
+- Replaced circle with white pawn in SVG format
+- Replace cross with black pawn in SVG format
+- Resizable board (choose from 3x3 or 5x5)
 
 Based on https://github.com/MamadTvl/TicTacToe-React-Native  🙌🏻
 
