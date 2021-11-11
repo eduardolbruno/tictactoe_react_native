@@ -1,4 +1,4 @@
-# TicTacToe-React-Native  😊  - Chessable Assessment
+# TicTacToe-React-Native  😊
 
 - has three differents difficulties (easy, hard, impossible)
 - play against computer or a human
