@@ -1,4 +1,4 @@
-# TicTacToe-React-Native  😊
+# ⭕❌ Tic-Tac-Toe in React Native ❌⭕
 
 - Three levels (easy, hard, impossible)
 - Play against computer or a human
